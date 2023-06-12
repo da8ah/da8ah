@@ -9,13 +9,16 @@
 <tr>
 <td>
 <div align="center">
+  <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript"/>&nbsp;
+  <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java"/>&nbsp;
+  <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python"/>&nbsp;
   <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React"/>&nbsp;
+  <img width="60" height="60" src="https://github.com/BuilderIO/qwik/blob/main/packages/docs/public/logos/qwik-logo.svg" title="Qwik" alt="Qwik"/>&nbsp;
+  <br/>
   <img width="80" height="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node"/>&nbsp;
-  <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring"/>&nbsp;
   <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB"/>&nbsp;
   <img width="80" height="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"/>&nbsp;
   <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL"/>&nbsp;
-  <img width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku"/>&nbsp;
   <img width="80" height="80" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure"/>&nbsp;
 </div>
 </td>
